@@ -1,0 +1,7 @@
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.exe.config
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.exe
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.pdb
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.exe
+C:\Users\kunal.sool\source\repos\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.pdb
