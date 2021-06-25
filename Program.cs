@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 
+//testing git update
 namespace PracticeConsoleApp
 {
     class Program
@@ -21,6 +22,8 @@ namespace PracticeConsoleApp
             string responese = await client.GetStringAsync(url);
             Console.WriteLine(responese);
             Console.ReadLine();
+
+            
         }
     }
 }
